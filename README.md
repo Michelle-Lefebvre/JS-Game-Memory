@@ -1,5 +1,5 @@
-# JS-Game-Memory
-Course from Ania Kubow https://www.youtube.com/watch?v=lhNdUVh3qCc
+# JS-Game-Memory https://michelle-lefebvre.github.io/JS-Game-Memory/
+
  Learn JavaScript:
   • push()
   • querySelector()
@@ -10,3 +10,5 @@ Course from Ania Kubow https://www.youtube.com/watch?v=lhNdUVh3qCc
   • sort()
   • For loops
   • createElement()
+  
+ Course from Ania Kubow https://www.youtube.com/watch?v=lhNdUVh3qCc
