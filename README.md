@@ -1,4 +1,4 @@
-# JS-Game-Memory https://michelle-lefebvre.github.io/JS-Game-Memory/
+# JS-Game-Memory
 
  Learn JavaScript:
   • push()
