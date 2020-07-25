@@ -1,7 +1,24 @@
-.grid {
+body {
 	display: flex;
+	/* center vertical & horizontal*/
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.grid {
 	flex-wrap: wrap;
 	height: 340px;
 	width: 450px;
-	grid-gap: 10px
+}
+
+img {
+	margin: 0 5px 0 0;
+}
+
+h3 {
+	text-align: left;
+	margin-left: 1rem;
 }
